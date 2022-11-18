@@ -1,6 +1,6 @@
-# Recent Coding Project
+# Coding Project
 
-I am taking an Introduction to Information Technology course where we write code. Here is my most recent project using python:
+Here is one of the first programs I learned to write using python:
 
     x_initial = float(input("Enter the object's initial position: "))
     v_initial = float(input("Enter the object's initial velocity: "))
@@ -11,4 +11,4 @@ I am taking an Introduction to Information Technology course where we write code
 
     print("\nThe final position of the object is ",x_final," meters.")
     
-[<Previous](RecentDigitalMediaProject.md)
+[<Previous](DigitalMediaProject.md)

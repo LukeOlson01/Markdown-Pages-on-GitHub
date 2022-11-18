@@ -2,10 +2,10 @@
 
 I am taking these classes this semester:
 
-* Introduction to Information Technology
-* Introduction to Digital Media Design
-* Programming Languages and Paradigms
-* Fundamentals of Network Technology
-* Finite Mathematics
+* Digital Systems
+* Database System
+* Software Engineering
+* iOS App Dev
+* Songwriting and Beatmaking
 
 [<Previous](Introduction.md) [Next>](Hobbies.md)

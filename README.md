@@ -4,7 +4,7 @@ Pages:
 [Introduction](Introduction.md)  
 [Schedule](Schedule.md)  
 [Hobbies](Hobbies.md)  
-[Recent Digital Media Project](RecentDigitalMediaProject.md)  
-[Recent Coding Project](RecentCodingProject.md)
+[Digital Media Project](DigitalMediaProject.md)  
+[Coding Project](CodingProject.md)
 
 [Next>](Introduction.md)
